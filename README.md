@@ -1,6 +1,6 @@
-👋 Hi, I’m Islom
-👀 I’m interested in Web development
-🌱 I’m currently learning React and Typescript
+👋 Hi, I’m Islom <br>
+👀 I’m interested in Web development <br>
+🌱 I’m currently learning React and Typescript <br>
 
 <!---
 islom2202/islom2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
