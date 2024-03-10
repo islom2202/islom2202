@@ -3,7 +3,7 @@
 🌱 I’m currently learning React and Typescript <br><br>
 
 2024 intentions:
-1. softclub   <br>                  
+1. softclub  ✅ <br>                  
 2. portfolio <br>
 3. yakkasaroy <br>
 
