@@ -5,7 +5,6 @@
 2024 intentions:
 1. softclub  ✅ <br>                  
 2. portfolio ✅<br>
-3. find a job <br>
 
 <!---
 islom2202/islom2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
