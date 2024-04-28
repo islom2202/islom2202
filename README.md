@@ -6,6 +6,8 @@
 1. softclub  ✅ <br>                  
 2. portfolio ✅<br>
 3. frontend quiz ✅ <br>
+4. all javascript courses by Simon  <br>
+5. all php courses by Gio  <br>
 
 <!---
 islom2202/islom2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
