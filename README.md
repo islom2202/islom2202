@@ -8,6 +8,7 @@
 3. frontend quiz ✅ <br>
 4. all javascript courses by Simon  <br>
 5. all php courses by Gio  <br>
+6. dictionary web app <br>
 
 <!---
 islom2202/islom2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
