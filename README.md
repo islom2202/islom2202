@@ -6,7 +6,7 @@ intentions to build:
 2. portfolio ✅<br>
 3. frontend quiz ✅ <br>
 4. all javascript courses by Simon  <br>
-5. dictionary web app <br> ✅
+5. dictionary web app ✅<br>
 6. https://www.macellaiorc.com (restaurant website) <br>
 7. https://www2.hm.com/en_gb/index.html (ecommerce)  <br>
 8. https://rentacar.tj (car renting website) <br>
